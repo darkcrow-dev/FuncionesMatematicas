@@ -16,7 +16,7 @@ Si el usuario presiona en el botón de resta, la aplicación va a mostrar la res
 
 Si el usuario presiona en el botón de multiplicar, la aplicación va a mostrar el producto de esos dos valores.
 
-
+![FM5](https://user-images.githubusercontent.com/108247794/219848749-3f6f5a51-ca4e-46a5-b245-6c53b1816e83.png)
 
 Si el usuario presiona en el botón de dividir, la aplicación va a mostrar la division de esos dos valores.
 
